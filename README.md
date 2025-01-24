@@ -1,5 +1,5 @@
-# Collection-Game
-Game Collection Windows 10
+# Collection Game
+Collection Game Windows 10
 
 Welcome to [Collection Game](https://github.com/collectiongame/Collection-Game), the premier online gaming platform that offers an unparalleled gaming experience. Our website is a treasure trove of exciting games, carefully curated to provide you with an endless stream of entertainment.
 
